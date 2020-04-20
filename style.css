@@ -1,4 +1,4 @@
-/* Styles go here! */
+
 @keyframes fadein{
   0% { opacity:0; }
   66% { opacity:0; }
@@ -7,7 +7,6 @@
 
 body {
   background: radial-gradient(circle, rgba(246,199,219,1) 0%, rgba(148,187,233,1) 100%);
-  /* background-image: url("./images/flower-background-3.JPG"); */
   background-size: cover;
   transition: margin-left .5s; /* If you want a transition effect */
   margin: 0;
@@ -91,9 +90,8 @@ canvas {
     overflow-x: hidden; /* Disable horizontal scroll */
     background-color: rgba(255, 255, 255, 0.664); /* Black*/
     transition: 0.5s; /* 0.5 second transition effect to slide in the sidebar */
-    box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.2), 0 10px 20px 0 rgba(0, 0, 0, 0.19)
-    /* border-right: 1px solid #bbb; */  
-  }
+    box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.2), 0 10px 20px 0 rgba(0, 0, 0, 0.19) 
+}
 
   .sidebar-content {
     display: none;

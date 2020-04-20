@@ -16,7 +16,9 @@ A user can
 * delete flowers from their bouquet 
 * save and revisit bouquets
 
+## Screenshot
 
+![screenshot](./images/bloom-screenshot.png)
 ## Dev Tools
 
 [**Back End**](https://github.com/angelopoole/Bloom-Backend)
