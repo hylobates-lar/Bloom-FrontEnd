@@ -1,6 +1,6 @@
 # Bloom
 
-A calming, meditative interactive desktop app that allows a user to create digital soundscape bouquets of their choosing. 
+A calming, meditative interactive web app that allows a user to create digital soundscape bouquets of their choosing. 
 
 
 ## Features
